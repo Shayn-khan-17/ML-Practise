@@ -1,2 +1,2 @@
 # ML-Practise
-this is the short practice on ML algorithms
+this is  short practice on ML algorithms
